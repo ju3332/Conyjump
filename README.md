@@ -1,3 +1,0 @@
-WinAppTest
-
-- Cal test
